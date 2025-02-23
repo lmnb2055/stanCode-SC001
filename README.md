@@ -1,17 +1,17 @@
 # stanCode-SC001: Programming Methodologies
 Hey there! I’m Sidney Chen 👋✨
-## 👩‍💻 About Me
+## 🧑🏻‍💻 About Me
 In May 2022, I made a bold leap—from being a Junior High School Technology Teacher to pursuing my passion as an aspiring Cybersecurity Engineer. That's when I dove headfirst into Python through stanCode's comprehensive curriculum. It’s been a journey of growth, challenges, and plenty of "aha!" moments. 💡💻
 
-## 💛 My Learning Journey
+## 💪 My Learning Journey
 This repo is more than just code—it's a snapshot of my dedication and the skills I’ve built along the way. 💪
 
 I’ve tackled 4 hands-on assignments that helped me level up in:
 
-🔄 Loops & Conditions
-🧮 Variables, Arithmetic, & Logic
-🔤 String Manipulation & File Reading
-🖼 Image Processing using SimpleImage
+🔄 Loops & Conditions\n
+🧮 Variables, Arithmetic, & Logic\n
+🔤 String Manipulation & File Reading\n
+🖼 Image Processing using SimpleImage\n
 Every file here reflects my approach, thought process, and the little victories that made me a better coder. 🚀
 
 📚 Assignments Overview:
