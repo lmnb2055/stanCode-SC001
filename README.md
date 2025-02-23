@@ -8,17 +8,13 @@ This repo is more than just code—it's a snapshot of my dedication and the skil
 
 I’ve tackled 4 hands-on assignments that helped me level up in:
 
-🔄 Loops & Conditions\n
-🧮 Variables, Arithmetic, & Logic\n
-🔤 String Manipulation & File Reading\n
-🖼 Image Processing using SimpleImage\n
 Every file here reflects my approach, thought process, and the little victories that made me a better coder. 🚀
 
 📚 Assignments Overview:
-- **Assignment 1:** Loops, Conditions, Functions
-- **Assignment 2:** Variables, Input, Arithmetic, Logic
-- **Assignment 3:** String Manipulation, File Reading
-- **Assignment 4:** Image Processing with SimpleImage
+- **Assignment 1:** 🔄Loops, Conditions, Functions
+- **Assignment 2:** 🧮Variables, Input, Arithmetic, Logic
+- **Assignment 3:** 🔤String Manipulation, File Reading
+- **Assignment 4:** 🖼Image Processing with SimpleImage
 
 ## 💻 About stanCode 001
 The backbone of my Python journey is stanCode, founded by Stanford MSc. grad Jerry. His mission? To make Stanford-level CS education accessible to all students in Taiwan—no matter their background.
