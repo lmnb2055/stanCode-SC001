@@ -4,7 +4,7 @@ Hey there! I’m Sidney Chen 👋✨
 In May 2022, I made a bold leap—from being a Junior High School Technology Teacher to pursuing my passion as an aspiring Cybersecurity Engineer. That's when I dove headfirst into Python through stanCode's comprehensive curriculum. It’s been a journey of growth, challenges, and plenty of "aha!" moments. 💡💻
 
 ## 💪 My Learning Journey
-This repo is more than just code—it's a snapshot of my dedication and the skills I’ve built along the way. 💪
+This repo is more than just code—it's a snapshot of my dedication and the skills I’ve built along the way. 
 
 I’ve tackled 4 hands-on assignments that helped me level up in:
 
