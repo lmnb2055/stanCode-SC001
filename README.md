@@ -17,7 +17,7 @@ Every file here reflects my approach, thought process, and the little victories 
 - **Assignment 4:** 🖼Image Processing with SimpleImage
 
 ## 💻 About stanCode 001
-The backbone of my Python journey is stanCode, founded by Stanford MSc. grad Jerry. His mission? To make Stanford-level CS education accessible to all students in Taiwan—no matter their background.
+The backbone of my Python journey is stanCode, founded by Stanford MSc. grad Jerry. He makes Stanford-level CS education accessible to all students in Taiwan—no matter their background.
 
 stanCode 001 draws inspiration from Stanford’s renowned CS106A, laying down a strong foundation in programming, critical thinking, and problem-solving. It’s where I learned to code not just for machines, but for people. 💖
 
